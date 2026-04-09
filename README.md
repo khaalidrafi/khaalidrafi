@@ -60,17 +60,17 @@
   <img src="https://streak-stats.demolab.com?user=khaalidrafi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+### My Blog Highlights
 
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  <a target="_blank" href="https://blog.khalidrafi.tech/en/coding-without-computer/">
+    <img style="width: 100%" src="https://blog.khalidrafi.tech/_astro/coding-without-computer.BQ89tovK_Z2wQhis.webp" alt="How to Code Without a Computer"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  <a target="_blank" href="https://blog.khalidrafi.tech/en/install-emacs-on-android/">
+    <img style="width: 100%" src="https://blog.khalidrafi.tech/_astro/install-emacs-on-android.CISw5LDd_Z1Jroon.webp" alt="How to Install and Set Up Emacs on Android"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  <a target="_blank" href="https://blog.khalidrafi.tech/en/firefox-android-desktop-extensions/">
+    <img style="width: 100%" src="https://blog.khalidrafi.tech/_astro/firefox-android-desktop-extensions.DuZxoA5o_Z1KGDIa.webp" alt=" How to Install Desktop Extensions in Firefox for Android"  />
   </a>
 </div>
 
