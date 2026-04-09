@@ -45,16 +45,18 @@
 # 📑 My Blog Highlights
 
 <div align="center" style="width: 100%; display: flex; gap: 15px;">
+    <img src="https://blog.khalidrafi.tech/_astro/coding-without-computer.BQ89tovK_Z2wQhis.webp" alt="How to Code Without a Computer"  />
     <a target="_blank" href="https://blog.khalidrafi.tech/en/coding-without-computer/">
         <h3>How to Code Without a Computer</h3>
-        <img style="width: 100%" src="https://blog.khalidrafi.tech/_astro/coding-without-computer.BQ89tovK_Z2wQhis.webp" alt="How to Code Without a Computer"  />
     </a>
+    <img src="https://blog.khalidrafi.tech/_astro/install-emacs-on-android.CISw5LDd_Z1Jroon.webp" alt="How to Install and Set Up Emacs on Android"  />
+    
     <a target="_blank" href="https://blog.khalidrafi.tech/en/install-emacs-on-android/">
         <h3>How to Install and Set Up Emacs on Android</h3>
-        <img style="width: 100%" src="https://blog.khalidrafi.tech/_astro/install-emacs-on-android.CISw5LDd_Z1Jroon.webp" alt="How to Install and Set Up Emacs on Android"  />
     </a>
+
+    <img src="https://blog.khalidrafi.tech/_astro/firefox-android-desktop-extensions.DuZxoA5o_Z1KGDIa.webp" alt="How to Install Desktop Extensions in Firefox for Android"  />
     <a target="_blank" href="https://blog.khalidrafi.tech/en/firefox-android-desktop-extensions/">
         <h3>How to Install Desktop Extensions in Firefox for Android</h3>
-        <img style="width: 100%" src="https://blog.khalidrafi.tech/_astro/firefox-android-desktop-extensions.DuZxoA5o_Z1KGDIa.webp" alt="How to Install Desktop Extensions in Firefox for Android"  />
     </a>
 </div>
