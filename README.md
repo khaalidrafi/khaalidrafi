@@ -16,23 +16,11 @@
     </a>
 </div>
 
-###
+<h1 align="left">👩‍💻  About Me</h1>
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Khalid Rafi from Bangladesh<br><br>- 🖊 I am a technical blogger at Khalid's Shell<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I customize Emacs</p>
-
-###
+<p align="left">I'm Khalid Rafi from Bangladesh<br><br>- 📑 I am a technical blogger at <a href="https://blog.khalidrafi.tech/en">Khalid's Shell</a><br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I customize Emacs</p>
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -50,17 +38,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h1 align="left">🔥   My Stats :</h1>
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=khaalidrafi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-### 📑 My Blog Highlights
+# 📑 My Blog Highlights
 
 <div align="center" style="width: 100%; display: flex; gap: 15px;">
     <a target="_blank" href="https://blog.khalidrafi.tech/en/coding-without-computer/">
